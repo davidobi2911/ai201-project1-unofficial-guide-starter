@@ -1,0 +1,57 @@
+Source: UW registration & general-education requirements — official Registrar/Advising pages
+Type: Class registration and gen-ed strategy guide (grounded in real UW pages)
+Collected: June 2026
+Note: r/udub (the Reddit source originally planned) is not machine-fetchable by the tools used
+to build this corpus, so this doc is grounded in the equivalent official UW pages that document
+how registration and requirements actually work. URLs are real and verifiable.
+URLs:
+- Registration Periods I/II/III: https://registrar.washington.edu/register/periods/
+- Registration resources (MyPlan, Register.UW, Notify.UW): https://registrar.washington.edu/register/
+- General education (Areas of Inquiry): https://advising.uw.edu/degree-overview/general-education/
+- Grading system (S/NS): https://www.washington.edu/students/gencat/front/Grading_Sys.html
+
+=== How registration actually works ===
+- Registration Period I = currently enrolled (continuing) students. Period II = newly admitted
+  students. Period III = the first week of classes (add/drop).
+- Period I opens at 6:00 a.m. on your calculated registration start date. Your start date depends
+  on (1) class standing — credits earned + in progress as of the Thursday before Period I — and
+  (2) priority status. Priority registration goes to Graduating Senior Priority (GSP), students
+  with DRS accommodations, veterans, ROTC, and NCAA athletes.
+- Workflow: beginning at midnight of your start date you can import sections planned in MyPlan or
+  add them to your Register.UW cart by SLN (Schedule Line Number) or course code. You can't submit
+  until 6 a.m., when the register button appears.
+
+=== Tools to use ===
+- MyPlan — plan long- and short-term academic paths, search courses, build plans to share with an
+  adviser, and run a degree audit (it tells you exactly which requirements a course fills).
+- Register.UW — where you actually add/submit sections (by SLN or course code).
+- Notify.UW — FREE notifications (email or text) when a section opens or first closes. Integrated
+  with the Time Schedule, MyPlan, and Register.UW. Use it instead of refreshing manually for a
+  full class.
+- Tip: have backup sections with their SLNs noted in advance (echoed in UW's official "21 Tips").
+
+=== General education: Areas of Inquiry (current framework) ===
+IMPORTANT — UW changed its gen-ed framework starting Autumn 2024. The old "Areas of Knowledge"
+labels were renamed:
+- Arts & Humanities (A&H) — formerly VLPA (Visual, Literary & Performing Arts)
+- Social Sciences (SSc) — formerly I&S (Individuals & Societies)
+- Natural Sciences (NSc) — formerly NW (Natural World)
+You also complete: English Composition, Additional Writing, Reasoning, and Diversity.
+(If you started before Autumn 2024 you may still be on the older VLPA/I&S/NW requirements — check
+your degree audit in MyPlan.)
+Use MyPlan's degree audit to confirm which Area of Inquiry a given course satisfies before you
+register, so you don't waste credits.
+
+=== S/NS (Satisfactory / Not Satisfactory) grading ===
+- UW offers S/NS grading for eligible courses to protect your GPA, but many majors will not accept
+  S/NS for prerequisite or major requirements — check first.
+- There is a deadline each quarter to switch a course to/from S/NS; confirm the exact date on the
+  Registrar's academic calendar for your quarter (it falls partway through the term).
+Source: https://www.washington.edu/students/gencat/front/Grading_Sys.html
+
+=== Quick reference ===
+- Periods: I = continuing students (opens 6 a.m. on your date), II = new students, III = week 1.
+- Tools: MyPlan (plan + audit), Register.UW (add by SLN), Notify.UW (free seat alerts).
+- Gen-ed is now Areas of Inquiry: A&H / SSc / NSc (formerly VLPA / I&S / NW) + Comp, Writing,
+  Reasoning, Diversity.
+- Don't overload your first quarter; verify requirements in your MyPlan degree audit before adding.

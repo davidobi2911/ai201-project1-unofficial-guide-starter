@@ -1,0 +1,36 @@
+Source: RateMyProfessors.com — University of Washington (Seattle)
+Type: Student professor reviews (real ratings + verbatim comment excerpts)
+Collected: June 2026
+Note: RateMyProfessors rates individual instructors, not courses. Ratings below were
+retrieved from each professor's live RMP profile in June 2026. Overall and Difficulty
+are on a 1–5 scale; "Would take again" is the percent of raters who said yes.
+
+=== Stuart Reges — Computer Science (intro programming, CSE 12x/14x) ===
+Overall 3.9 / Difficulty 3.5 / Would take again 68% / 259 ratings
+Verbatim student comments:
+- "Amazing, fun and easy to understand lectures. He speaks clearly and is entertaining, and is clearly very knowledgable about programming languages."
+- "Stuart is one of the best professors I've had. His stories and tangents about cs history might be annoying to some, but I enjoyed it."
+- "Stuart is the goat. Absolutely show up to his lectures. Project grading is harsh but I can see where the style requirements are coming from."
+Profile: https://www.ratemyprofessors.com/professor/498702
+
+=== Hunter Schafer — Computer Science (intro programming / CSE 373) ===
+Overall 4.2 / Difficulty 3.3 / Would take again 83% / 57 ratings
+Verbatim student comments:
+- "Both were very good lecturers and clearly were passionate about the computer science."
+- "I don't even care about my grade anymore, this class is great because of the things I learnt."
+- "He seems like he is not very passionate about interacting with students or helping them." (a dissenting review)
+Profile: https://www.ratemyprofessors.com/professor/2002528
+
+=== How to read UW ratings on RMP ===
+- For large intro STEM courses (e.g., MATH 124 calculus, CHEM 142 general chemistry),
+  the lecturer varies by quarter, so search the specific instructor's name rather than the
+  course number. The quiz/lab-section TA often matters as much as the lecturer for your grade.
+- RMP skews toward strong opinions (very positive or very negative). Triangulate with the
+  UW grade-distribution tool (DAWGPath) and recent student discussion before deciding.
+- Browse all UW professors: https://www.ratemyprofessors.com/search/professors/1530?q=*
+
+=== Common themes across UW reviews ===
+- "Show up to lectures" and "go to office hours" recur in positive reviews.
+- Project/assignment grading in CSE is described as strict but predictable ("style requirements").
+- Difficulty ratings cluster around 3.3–3.5 even for well-liked intro instructors — these are
+  fast 10-week courses.

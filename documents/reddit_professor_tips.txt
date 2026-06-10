@@ -1,0 +1,45 @@
+Source: How to choose professors & sections at UW — compiled from official UW tools
+Type: Student strategy guide (grounded in real, accessible UW resources)
+Collected: June 2026
+Note: r/udub (the Reddit source originally planned) is not machine-fetchable by the tools used
+to build this corpus, so this doc is grounded in the real, publicly documented UW tools that
+students actually use to make these decisions. URLs are real and verifiable.
+URLs:
+- DawgPath: https://dawgpath.uw.edu (requires UW NetID / EARS access)
+- RateMyProfessors (UW): https://www.ratemyprofessors.com/search/professors/1530?q=*
+- UW grading system (Registrar): https://www.washington.edu/students/gencat/front/Grading_Sys.html
+
+=== Triangulate three tools ===
+1. DawgPath — UW's own data tool. It shows the grade distribution for everyone who completed a
+   course over the last 5 years. IMPORTANT and often misunderstood: the distribution is aggregated
+   across ALL instructors and quarters — DawgPath does NOT break grades down by individual
+   instructor. It also shows GPA distributions for students admitted to capacity-constrained
+   ("impacted") majors, courses commonly taken together, and courses common to each major.
+   Access at dawgpath.uw.edu with your NetID (EARS access).
+2. RateMyProfessors — student-written ratings of individual instructors. Useful for spotting
+   harsh graders and teaching style, but it skews toward extreme opinions (very positive or very
+   negative). Treat it as one signal, not the verdict.
+3. UW Course Evaluation results — at the end of each quarter UW collects official student
+   evaluations of instructors; summarized ratings are published and are a more representative
+   sample than RMP. Ask an adviser or check the registrar/department for access.
+
+=== Practical strategy ===
+- Because DawgPath grade data is course-level (not instructor-level), use it to gauge how hard a
+  COURSE tends to be, and use RMP / course evaluations to compare INSTRUCTORS of that course.
+- For large STEM lecture courses (e.g., MATH 124, CHEM 142), the lecturer often varies by quarter
+  and your quiz/lab-section TA grades your work — so read up on the TA/section, not just the
+  lecturer, when you can.
+- For writing-credit courses you'll write a lot, so weight the topic and instructor fit heavily.
+- Use the GPA-distribution data on DawgPath to set realistic expectations for impacted majors
+  rather than guessing.
+
+=== Office hours ===
+- In large lectures, office hours are how a professor learns your name — which matters for
+  recommendation letters and research positions. Showing up (even just to listen) is a documented,
+  repeated piece of advice across UW student guides and the UW Student Life "21 Tips" article.
+
+=== Quick reference ===
+- DawgPath = course grade distributions (aggregated across instructors) + impacted-major GPA data.
+- RateMyProfessors = per-instructor reviews, skews extreme.
+- Official course evaluations = the most representative instructor feedback.
+- TA/section matters as much as the lecturer in big STEM courses.

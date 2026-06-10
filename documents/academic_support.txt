@@ -1,0 +1,55 @@
+Source: University of Washington academic support resources (official department pages)
+Type: Resource directory compiled from official UW websites
+Collected: June 2026
+Primary URLs:
+- CLUE Tutoring: https://academicsupport.uw.edu/clue/
+- Math Study Center: https://sites.math.washington.edu/~msc/
+- Odegaard Writing & Research Center: https://depts.washington.edu/owrc/
+- Disability Resources for Students: https://www.washington.edu/drs/
+- Academic Support Programs (campus resources index): https://academicsupport.uw.edu/campus-resources/
+
+=== Free Tutoring: CLUE ===
+CLUE (Center for Learning and Undergraduate Enrichment), part of UW Academic Support Programs.
+- In-person tutoring takes place in Mary Gates Hall Commons, with virtual options also available.
+- Regular schedule: Sunday–Thursday, 7pm–11pm. A Husky Card is required for after-hours building access (after 5pm).
+- Free drop-in tutoring (one-on-one, typically 15–30 minutes) in: Biology (BIOL 180, 200, 220), Chemistry (general, organic, biochemistry, physical), Computer Science & Informatics (Java, Python, R), Math (precalculus through advanced courses), Physics, and Writing.
+- Also runs exam reviews for introductory courses (sessions typically ~1.5 hours, with practice problems and detailed explanations) and study groups for Biology and Physics.
+- CLUE Writing Center: 45-minute sessions following a "3-2-1" policy — no more than 3 sessions on the same assignment, max 2 drop-in sessions per day, 1 assignment per session.
+Source: https://academicsupport.uw.edu/clue/
+
+=== Math Study Center (MSC) ===
+- Located in the Communications building, room CMU B023 (basement area of CMU).
+- Drop-in tutoring Monday–Friday, 10:00am–5:00pm; evening tutoring (7–8pm) offered via Zoom.
+- Free help for lower-division math (precalc/calculus sequence). Just show up with your homework; tutors float the room.
+- A separate 200-Level Math Lab (CMU B006) supports MATH 207, 208, 209, and 224.
+Source: https://sites.math.washington.edu/~msc/ and https://math.washington.edu/200-level-math-lab
+
+=== Writing Support: Odegaard Writing & Research Center (OWRC) ===
+- Located on the first floor of Odegaard Undergraduate Library, room 121. Free for any discipline, any stage of a paper.
+- Appointments are 45 minutes; students are limited to 3 appointments per week. Booking ahead is recommended, but drop-ins are accepted when a tutor is free.
+- Reserved spots are given away if the writer does not show within the first 15 minutes.
+- Schedule appointments at https://uw.mywconline.com/ or email owrc@uw.edu.
+- The CLUE Writing Center (evenings, Mary Gates Hall) is the late-night alternative.
+Source: https://depts.washington.edu/owrc/ and FAQ at https://depts.washington.edu/owrcweb/wordpress/faqs-for-writers/faq-for-students/
+
+=== Advising ===
+- Pre-major and exploratory students use Undergraduate Advising (Mary Gates Hall). Once admitted to a major, you work with a departmental adviser to plan your degree and avoid prerequisite traps.
+- Book advising early in the quarter — appointments fill before registration periods.
+Source: https://academicsupport.uw.edu/campus-resources/
+
+=== Disability & Accessibility: DRS ===
+- Disability Resources for Students (DRS) coordinates accommodations (e.g., extended test time, note-taking, accessible materials, priority registration).
+- Process: (1) complete the online New Student Application, (2) submit documentation of your disability, (3) attend an Access Planning Meeting (APM). Once approved you receive a Student Eligibility Letter through the myDRS system.
+- Each quarter you use myDRS to activate approved accommodations per course; a Faculty Notification Letter is then delivered to instructors.
+- Seattle DRS office: 011 Mary Gates Hall. Contact: uwdrs@uw.edu, 206-543-8924 (Voice & Relay).
+- Register early — accommodations are not retroactive.
+Source: https://www.washington.edu/drs/ and https://depts.washington.edu/uwdrs/current-students/mydrs-student-guide/
+
+=== Study Spaces ===
+- Suzzallo Reading Room ("the Harry Potter room"): grand, quiet, fills fast at finals.
+- Odegaard Undergraduate Library: more collaborative, houses the OWRC and computer labs.
+- Allen Library and the quiet floors of Suzzallo for serious focus.
+
+=== Notes ===
+- The quarter is only 10 weeks — use these resources in weeks 1–2, not week 9.
+- Many departments also run their own help rooms (e.g., chemistry, physics). Check the department website; the Academic Support Programs campus-resources index links many of them.

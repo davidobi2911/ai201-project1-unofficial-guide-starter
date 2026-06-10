@@ -1,0 +1,61 @@
+Source: UW housing — Housing & Food Services (HFS), Transportation Services, and RateMyDorm
+Type: On-campus and off-campus housing guide (grounded in real UW pages + RateMyDorm)
+Collected: June 2026
+Note: r/udub (the Reddit source originally planned) is not machine-fetchable by the tools used
+to build this corpus, so this doc is grounded in the equivalent official UW pages plus RateMyDorm.
+URLs are real and verifiable.
+URLs:
+- HFS undergraduate housing: https://hfs.uw.edu/live/undergraduates/
+- Apply for housing (new residents): https://hfs.uw.edu/live/apply-for-housing-new-residents/
+- 12-month apartment housing: https://hfs.uw.edu/live/about-12-month-housing/
+- U-PASS / transit: https://transportation.uw.edu/getting-here/transit/u-pass
+- RateMyDorm UW dorm rankings: https://www.ratemydorm.com/dorms-ranked/university-of-washington
+
+=== Applying for on-campus housing (HFS) ===
+- Housing & Food Services (HFS) runs all on-campus housing. New residents apply through the
+  StarRez housing portal.
+- A $500 prepayment is required, and paying it is the last step of submitting your application —
+  apply early, as assignment is influenced by application timing.
+- Apartment-style housing uses a 12-month agreement running roughly late September through
+  mid-August, aimed at students who want year-round U-District housing or more independence.
+- HFS contact: 206-543-4059.
+
+=== North Campus vs West Campus (the core trade-off) ===
+- West Campus (e.g., Maple, Poplar) = newer buildings, better amenities, near the light rail, but a
+  ~10-minute walk to most classes.
+- North Campus (e.g., McMahon, McCarty, Terry) = closer to the academic core and the Ave, more
+  traditional/social vibe, but some older buildings and possible Greek Row noise.
+
+=== RateMyDorm freshman ranking (June 2026) ===
+1. Maple Hall (West) — clean private bathrooms, kitchens + study rooms on each floor, near
+   engineering and the Ave; corner rooms have skyline views; relatively expensive; warm in
+   spring/fall.
+2. Poplar Hall (West) — prime location near the Ave; lounge views toward the Space Needle.
+3. McMahon Hall (North) — social "cluster"-style suites, on-site gym, Mt. Rainier/Lake Washington
+   balcony views; older look, no kitchens.
+4. McCarty Hall (North) — spacious rooms, thin walls, near Greek Row (noise).
+5. Terry Hall (North) — small/community feel, rooftop deck, farthest from main campus.
+(See ratemydorm_uw.txt in this corpus for the detailed dorm reviews.)
+
+=== Off-campus housing ===
+- The U-District has many private apartment providers (e.g., HUB U District, Campus View, Avalon
+  on 7th) that lease far in advance — units for the next fall are commonly advertised/leased many
+  months ahead, so start looking early.
+- Splitting a house or apartment with several roommates is generally cheaper than the dorms.
+- Document everything with photos at move-in to protect your deposit.
+
+=== Transit: the U-PASS ===
+- All students who pay the Services & Activities Fee are automatically enrolled in the Universal
+  U-PASS (a mandatory ~$73/quarter fee appears on the tuition statement). It loads onto your Husky
+  Card.
+- The U-PASS gives unlimited rides on King County Metro, Sound Transit (Link light rail + Sounder),
+  Community/Pierce/Kitsap/Everett Transit, the streetcar, water taxis, and more.
+- Link light rail stations at U District and Husky Stadium connect campus to downtown Seattle and
+  Sea-Tac Airport — many students live in Capitol Hill or farther and commute in by train.
+
+=== Quick facts ===
+- HFS runs on-campus housing; apply via StarRez with a $500 prepayment; apartments are 12-month
+  (late Sept–mid Aug).
+- North Campus = close to class/social/older; West Campus = newer/amenities/near light rail.
+- Off-campus U-District units lease months in advance — start early; photograph everything.
+- U-PASS is included via the S&A fee (~$73/quarter) and covers unlimited regional transit.

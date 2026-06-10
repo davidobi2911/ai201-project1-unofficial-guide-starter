@@ -1,0 +1,45 @@
+Source: RateMyDorm.com — University of Washington dorm reviews & rankings
+Type: Student dorm reviews and aggregated rankings
+Collected: June 2026
+URLs:
+- UW dorms index: https://www.ratemydorm.com/dorms/university-of-washington
+- Freshman dorms ranked: https://www.ratemydorm.com/freshman-dorms-ranked/university-of-washington
+- Maple Hall: https://www.ratemydorm.com/reviews/university-of-washington/university-of-washington-maple-hall
+- McMahon Hall: https://www.ratemydorm.com/reviews/university-of-washington/university-of-washington-mcmahon-hall
+
+=== RateMyDorm Freshman Dorm Ranking (June 2026) ===
+1. Maple Hall (West Campus) — 14 reviews. Clean private bathrooms; kitchens on every floor with
+   regular cleaning service. Close to engineering classes and the Ave; lots of study space
+   (two kitchens, four study rooms per floor). Corner rooms have Seattle skyline views. Noted as
+   somewhat expensive, and it gets warm in spring/early fall — bring a fan.
+2. Poplar Hall (West Campus) — 11 reviews. Prime location near the Ave; elevator/lounge areas
+   with Space Needle views.
+3. McMahon Hall (North Campus) — 13 reviews. "Cluster style" suites (share a bathroom and living
+   space with a small group) make it very social. Bathrooms cleaned twice weekly, on-site gym,
+   main-floor patio, ample storage, balcony views of Mt. Rainier and Lake Washington. Downsides:
+   older "legacy" look, no kitchens, occasional building smell, uneven room temperatures.
+4. McCarty Hall (North Campus) — 11 reviews. Spacious rooms but thin walls; near Greek Row, so
+   potential party noise.
+5. Terry Hall (North Campus) — 6 reviews. Smallest hall, which fosters community; notable rooftop
+   deck; farthest from the main academic core.
+
+=== Maple Hall — detail ===
+Praised for modern design, comfort, and convenience: strategic location near engineering classes
+and the Ave, abundant study spaces, two kitchens, and four study rooms per floor. Rooms (especially
+corner rooms) offer skyline views and are noted as spacious for doubles or singles, with ample
+storage, loft beds, and clean private bathrooms. Main criticisms: relatively expensive, and warm
+in spring/early fall.
+
+=== McMahon Hall — detail ===
+The cluster layout (shared bathroom and living space with a small roommate group) creates a social
+atmosphere that's good for making friends. Praised for affordability, convenient north-campus
+location, ample in-room storage, private bathrooms, a main-floor patio, and an on-site gym. Balcony
+views of Mt. Rainier and Lake Washington stand out despite the building's older look. Common
+complaints: no kitchen facilities, an occasional smell, and varying room temperatures.
+
+=== Common patterns across reviews ===
+- West Campus (Maple, Poplar) = newer/better amenities, but a ~10-minute walk to most classes.
+- North Campus (McMahon, McCarty, Terry) = closer to academics, more traditional/social, but some
+  older buildings and potential Greek Row noise.
+- McMahon's cluster suites are the most social option; trade-off is noise and no kitchen.
+- Request a corner or high room for the best views and space.

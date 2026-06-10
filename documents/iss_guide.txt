@@ -1,0 +1,59 @@
+Source: University of Washington International Student Services (ISS) — official pages
+Type: Informational guide for international students, compiled from iss.washington.edu
+Collected: June 2026
+Primary URLs:
+- F-1 Enrollment Requirements: https://iss.washington.edu/academics-f-1/enrollment-requirements-f-1/
+- Enrollment Exceptions: https://iss.washington.edu/academics-f-1/enrollment-exceptions-f-1/
+- On-Campus Employment (F-1): https://iss.washington.edu/f1-employment/on-campus/
+- CPT: https://iss.washington.edu/f1-employment/off-campus-employment-f1/cpt/
+- STEM OPT Extension: https://iss.washington.edu/stem-opt-extension/
+- Filing Taxes: https://iss.washington.edu/taxes/
+- FAQs: https://iss.washington.edu/faqs/
+
+=== Maintaining F-1 Status: Full-Time Enrollment ===
+- Undergraduates must enroll in 12 credits each quarter; graduate students must enroll in 10 credits each quarter (autumn, winter, spring). Summer is generally optional.
+- Only ONE online/distance class may count toward the minimum credit requirement each quarter. An online class is one that "does not require the student's physical attendance for classes, examination or other purposes integral to completion of the class." You cannot take only online coursework in your final quarter.
+- Do NOT simply drop below full-time. Before reducing enrollment, consult ISS about an Enrollment Exception — Medical Reduced Course Load, Academic Reduced Course Load, or Final Quarter Reduced Course Load — or an immigration Leave of Absence. "Always check with ISS if you are not able to enroll full-time."
+- F-1 students must also make academic progress to maintain status.
+Source: https://iss.washington.edu/academics-f-1/enrollment-requirements-f-1/ and https://iss.washington.edu/academics-f-1/enrollment-exceptions-f-1/
+
+=== Working While Studying ===
+On-campus employment (F-1):
+- F-1 students are automatically authorized to work on campus without separate ISS authorization, as long as they maintain valid F-1 status. A valid I-20 serves as proof of work eligibility.
+- Limit is 20 hours per week or less during regular full-time quarters; more than 20 hours/week during the term requires authorization. Full-time hours are allowed during official breaks.
+- You may begin on-campus work as early as 30 days before the Program Start Date on your I-20.
+- "On-campus" means work at UW on the physical Seattle campus, affiliated with the University.
+Source: https://iss.washington.edu/f1-employment/on-campus/
+
+Off-campus employment (F-1):
+- Off-campus work requires authorization: CPT (Curricular Practical Training) for internships tied to your degree, or OPT (Optional Practical Training).
+- CPT can be part-time (20 hours/week or less) or full-time (over 20 hours/week); you can hold an on-campus job and CPT at the same time.
+- The STEM OPT Extension is a 24-month extension (twice-per-lifetime) for eligible STEM degree holders currently in post-completion OPT. Plan OPT applications well ahead of your program end date.
+- Never work off-campus without authorization — it is a serious status violation.
+Source: https://iss.washington.edu/f1-employment/off-campus-employment-f1/cpt/ and https://iss.washington.edu/stem-opt-extension/
+
+=== Taxes (everyone must address this) ===
+- Every international student in F or J status has an obligation to file taxes once per year for their first five years in the U.S. — regardless of income.
+- Nonresidents for tax purposes with NO U.S. income: file Form 8843 only, by June 15, 2026.
+- Nonresidents with U.S. income: file Form 8843 AND Form 1040NR by April 15, 2026.
+- UW provides Glacier Tax Prep (GTP), which determines your tax residency and walks you through the right forms. Students who worked on campus access it via online-tax.net; others use a separate GTP link.
+- Note: ISS advisers are not able to provide guidance on filing taxes or using GLACIER Tax Prep.
+- If you are classified as a resident for tax purposes, use free IRS filing options instead of GTP.
+Source: https://iss.washington.edu/taxes/ and https://iss.washington.edu/taxes/faqs/
+
+=== Practical Tips ===
+- Get a Social Security Number only after you have a job offer; ISS provides the support letter.
+- Open a bank account early (Chase, BECU, US Bank have U-District branches). Build U.S. credit with a student credit card.
+- Health insurance (ISHIP) is typically required and auto-charged; check waiver options if you have comparable coverage.
+- FIUTS (Foundation for International Understanding Through Students) runs orientation, host-family programs, and trips — a main way international students build community.
+
+=== Community & Support ===
+- ISS holds advising hours (drop-in and appointment). Go BEFORE making any enrollment or travel decision.
+- Get a travel signature on your I-20 before leaving the U.S. (valid ~1 year) so you can re-enter.
+
+=== Key reminders ===
+- Full-time = 12 credits/quarter (undergrad), 10 (grad). Only one online class counts.
+- Get an Enrollment Exception or RCL approval from ISS BEFORE dropping below full-time.
+- On-campus work: up to 20 hrs/week, no separate authorization; I-20 is your proof. Off-campus: needs CPT/OPT.
+- File taxes for your first five years; Form 8843 even with no income (due June 15, 2026).
+- Always get a travel signature before international travel.

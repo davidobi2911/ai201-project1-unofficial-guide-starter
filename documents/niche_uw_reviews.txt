@@ -1,0 +1,34 @@
+Source: Niche.com — University of Washington student & alumni reviews
+Type: Aggregated student review ratings + summarized review themes
+Collected: June 2026
+URLs:
+- Main profile: https://www.niche.com/colleges/university-of-washington/
+- Reviews: https://www.niche.com/colleges/university-of-washington/reviews/
+- 2026 Rankings: https://www.niche.com/colleges/university-of-washington/rankings/
+
+=== Niche Ratings (June 2026) ===
+- Overall Niche grade: A+
+- Student-review star rating: 3.82 / 5, based on 4,891 reviews.
+- UW is consistently ranked by Niche among the top public universities in Washington.
+
+=== What reviewers praise ===
+- Knowledgeable, research-active professors who bring their research into teaching.
+- A diverse student body and a very active extracurricular scene — Niche notes UW has over
+  800 Registered Student Organizations (RSOs), spanning interests from anime to programming
+  to the outdoors.
+- A lively campus culture, with Husky football and other athletics contributing to school spirit.
+
+=== What reviewers criticize ===
+- High cost of living in Seattle.
+- Large class sizes, especially in introductory courses, which can make personal attention hard.
+- A competitive, sometimes impersonal environment — particularly around "impacted"
+  (capacity-constrained) majors, which several reviewers describe as high-stress.
+
+=== Recurring themes ===
+- UW is described as a great institution for students willing to be proactive and navigate a
+  big, research-heavy university.
+- Strengths: research opportunities, Seattle location/tech proximity, club scene, school spirit.
+- Trade-offs: big intro lectures, cost of living, and competition to get into selective majors.
+
+Note: Star rating and review count above are the aggregate figures shown on the Niche reviews
+page as of June 2026 and will drift over time as new reviews are added.
